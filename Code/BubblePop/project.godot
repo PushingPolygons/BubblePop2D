@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="BubblePop2D"
+config/name="BubblePop"
 run/main_scene="res://Main/Main.tscn"
 config/icon="res://Textures/icon.png"
 
