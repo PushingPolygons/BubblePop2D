@@ -4,8 +4,12 @@ A simple [Godot](https://godotengine.org/) project to learn about 2D sprite move
 ## Instructions
 The project instructions begin here - [Bubble Pop: 1. Project Setup](https://gitlab.com/kirkja-leikjahonnunar/knowhow/-/tree/main/Tinker/Drills/BubblePop/1.%20Project%20Setup%20).
 
+## GDScript Topics
+- Variables.
+- Functions.
+- Event Signals.
 
-### Important Nodes, Properties, and Functions.
+### Important Nodes, Properties, and Functions
 
 #### `Node`
 - Parent Node: `get_parent()`
@@ -28,9 +32,4 @@ The project instructions begin here - [Bubble Pop: 1. Project Setup](https://git
 - `Inspector` > `Sprite2D` > `Texture`
 
 #### `Timer`
-- Signal: `time_out()`
-
-### GDScript Topics
-- Variables.
-- Functions.
-- Event Signals.
+- Signal: `time_out`
