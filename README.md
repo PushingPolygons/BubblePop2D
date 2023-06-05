@@ -2,7 +2,7 @@
 A simple [Godot](https://godotengine.org/) project to learn about 2D sprite movement and mouse clicking.
 
 ## Instructions
-The project instructions begin here - [Bubble Pop: 1. Project Setup](https://gitlab.com/kirkja-leikjahonnunar/knowhow/-/tree/main/Tinker/Drills/BubblePop/1.%20Project%20Setup%20).
+The project instructions begin here - [Bubble Pop: 1. Project Setup](https://gitlab.com/kirkja-leikjahonnunar/knowhow/-/blob/main/Tinker/Drills/Bubble%20Pop/1.%20Project%20Setup/README.md).
 
 ## GDScript Topics
 - Variables.
